@@ -1,0 +1,33 @@
+Computer Science Project Portfolio - Tanner Nickels
+
+This directory contains a compilation of projects I completed while obtaining a degree in Computer Science
+at Colorado State University. These are projects in which I believe I effectively implemented the skills 
+and technologies I have acquired over the last several years.
+
+1. Blackjack Reinforcement Learning
+    Purpose: use reinforcement learning to train an A.I. to play Blackjack and run analyses on betting patterns
+             to determine which "players" are counting cards.
+    Files: Batres-Dennis-Nickels-Blackjack-AI.ipynb (Jupyter Notebook)
+    Relevant Technologies: python, jupyter, reinforcement learning, pearson coefficients
+    Notes: This is a project I am quite proud of. I believe it displays a combination of clean code, effective organization,
+            creativity, and advanced coding principles (A.I.).
+
+2. Symbol Table in C
+    Purpose: implement the use of pointers and dynamic memory allocation in C to create a symbol table\
+    Files: .c files contained in the SymbolTable directory
+    Relevant Technologies: C, pointers, dynamic memory allocation, manipulation of various data structures
+    Notes: This project was from earlier on in my education, thus most of it was provided by my professor. However,
+            all of the functions defined in symbol.h were implemented solely by me in symbol.c. This project displays
+            my understanding of pointers and memory allocation, and I believe it is relevant because these are concepts
+            that most CS students struggle with. Learning how to cleanly and correctly allocate and deallocate memory
+            is a crucial skill, and I displayed my ability to do this effectively.
+
+3. Secure Shared Multi-User Filesystem
+    Purpose: use encryption techniques to secure a filesystem with multiple users in which all users have access
+            to each others files.
+    Files: .py files contained in RFID_Encryption directory
+    Relevant Technologies: python, RFID authentication, RSA encryption, RaspberryPi
+    Notes: not all python files are included, as the project in its entirety is saved to a RaspberryPi that
+            I no longer have access to. The files included are a rough early version of some of the work I performed
+            on this project, and the full report is included to give an encompassing view of what we accomplished.
+            
