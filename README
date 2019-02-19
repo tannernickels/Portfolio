@@ -2,7 +2,8 @@ Computer Science Project Portfolio - Tanner Nickels
 
 This directory contains a compilation of projects I completed while obtaining a degree in Computer Science
 at Colorado State University. These are projects in which I believe I effectively implemented the skills 
-and technologies I have acquired over the last several years.
+and technologies I have acquired over the last several years. Some directories do not contain completely runnable 
+applications, and are meant to display my coding abilities. 
 
 1. Blackjack Reinforcement Learning
     Purpose: use reinforcement learning to train an A.I. to play Blackjack and run analyses on betting patterns
@@ -10,7 +11,8 @@ and technologies I have acquired over the last several years.
     Files: Batres-Dennis-Nickels-Blackjack-AI.ipynb (Jupyter Notebook)
     Relevant Technologies: python, jupyter, reinforcement learning, pearson coefficients
     Notes: This is a project I am quite proud of. I believe it displays a combination of clean code, effective organization,
-            creativity, and advanced coding principles (A.I.).
+            creativity, and advanced coding principles (A.I.). As long as a user has up-to-date versions of python, jupyter,
+            and anaconda, this notebook should be 100% runnable.
 
 2. Symbol Table in C
     Purpose: implement the use of pointers and dynamic memory allocation in C to create a symbol table\
