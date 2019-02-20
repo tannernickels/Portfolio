@@ -23,6 +23,13 @@ applications, and are meant to display my coding abilities.
             my understanding of pointers and memory allocation, and I believe it is relevant because these are concepts
             that most CS students struggle with. Learning how to cleanly and correctly allocate and deallocate memory
             is a crucial skill, and I displayed my ability to do this effectively.
+            
+            TO RUN: type "make" into command line to compile. Run the testSymbol executable with one argument (the size of
+            the symbol table). Run with no arguments for usage. Try adding a few strings to arbitrary integer addresses, then 
+            test count and list functions.
+            
+            Visualization of a more recent implementation of this assignment (may not be exactly the same as mine):
+            https://www.cs.colostate.edu/~cs270/.Spring19/assignments/P4/symTab.html
 
 3. Secure Shared Multi-User Filesystem
     Purpose: use encryption techniques to secure a filesystem with multiple users in which all users have access
